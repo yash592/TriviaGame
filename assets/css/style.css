@@ -1,0 +1,91 @@
+body {
+	margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    margin-left: 46%;
+}
+#questionone {
+	
+    margin-left: 0%;
+    text-align: center;
+    
+    
+
+}
+
+.answerone {
+   height: 100px;
+    margin-left: 0%;
+    text-align: center;
+    
+
+}
+
+#questiontwo {
+	height: 50px;
+    margin-left: 0%;
+    text-align: center;
+    
+    
+
+}
+
+.answertwo {
+   height: 100px;
+    margin-left: 0%;
+    text-align: center;
+    
+}
+
+#questionthree {
+	height: 50px;
+    margin-left: 0%;
+    text-align: center;
+
+}
+
+.answerthree {
+   height: 100px;
+    margin-left: 0%;
+    text-align: center;
+}
+
+#questionfour {
+	height: 50px;
+    margin-left: 0%;
+    text-align: center;
+
+}
+
+.answerfour {
+   height: 100px;
+    margin-left: 0%;
+    text-align: center;
+}
+
+#questionfive {
+	height: 50px;
+    margin-left: 0%;
+    text-align: center;
+
+}
+
+.answerfive {
+   height: 100px;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.timer {
+        font-size: 100px;
+    /* float: right; */
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
